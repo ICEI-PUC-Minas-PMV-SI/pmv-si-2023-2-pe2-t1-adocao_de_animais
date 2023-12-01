@@ -1,42 +1,37 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Pereira da Costa
+    given-names: Beatriz
+  - family-names: Gomes Bruzzi
+    given-names: Guilherme
+  - family-names: Ferreira dos Santos
+    given-names: Laís Lara
+  - family-names: Almeida Braga
+    given-names: Leonardo
+  - family-names: Silva de Oliveira
+    given-names: Luis Filipe 
+  - family-names: Pereira da Silva
+    given-names: Sávio Sergio
     
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Veloso
     given-names: Eveline Alonso
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Baroni de Carvalho
-    given-names: Juliana Amaral 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Da Mota
-    given-names: Rosilane Ribeiro
-  
+ 
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "Animais"
+  - "Doaçaõ"
+  - "Adoção"
+  - "Resgate"
+  - "logística"
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-adocao_de_animais/tree/master"
+title: "Doces Patinhas"
 abstract: |
     "
     Breve descrição do projeto
