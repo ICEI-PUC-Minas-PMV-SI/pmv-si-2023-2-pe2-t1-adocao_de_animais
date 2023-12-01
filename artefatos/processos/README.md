@@ -2,7 +2,10 @@
 
 * Processo: Registro de Animais
 * [Formato .bpmn](./Registro-de-animais.bpmn) <!-- login.bpmn - Processo de login. -->
+<p>Processo responsável por aprimorar o sistema de cadastramento dos animais resgatados pelas ONGs.</p>
+
 ![Registro de animais - imagem](https://github.com/leoalmeidabraga/Teste/assets/127418501/0b85662f-ea2a-4fb2-866d-a382891bf2fa)
+
 <p><!-- citaçaõ --><br><br><br><br></p>
 
 * Processo: [Gestão Financeira - Formato .bpmn] <!-- agendar.bpmn - Processo de agendamento. -->
