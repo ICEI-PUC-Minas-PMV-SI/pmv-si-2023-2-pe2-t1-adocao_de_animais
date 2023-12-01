@@ -31,9 +31,9 @@ message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
 repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-adocao_de_animais/tree/master"
-title: "Doces Patinhas"
+title: "DocesPatinhas"
 abstract: |
     "
-    Breve descrição do projeto
+    O projeto "Doces Patinhas" tem como principal objetivo aprimorar a eficiência operacional de ONGs voltadas ao cuidado de animais, buscando simplificar o cadastramento de animais, gerenciar as doações e otimizar a logística de adoção.
     "
 ...
