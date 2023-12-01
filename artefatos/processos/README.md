@@ -9,7 +9,7 @@
 <p><!-- citaçaõ --><br><br><br><br></p>
 
 ## Processo: Gestão Financeira
-* [Formato .bpmn](./gestao-financeira.bpmn) <!-- agendar.bpmn - Processo de agendamento. -->
+* [Formato .bpmn](./Gestao-financeira.bpmn) <!-- agendar.bpmn - Processo de agendamento. -->
 
 <p>Processo responsável por gerenciar as doações destinas aos animais resgatados.</p>
 
