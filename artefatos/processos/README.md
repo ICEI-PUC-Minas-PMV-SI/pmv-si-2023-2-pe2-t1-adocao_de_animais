@@ -14,7 +14,7 @@
 
 ![Gestao financeira - imagem](https://github.com/leoalmeidabraga/Teste/assets/127418501/a43b8614-d89a-4e4a-a418-895ef2f8fcc2)
 
-<p><!-- citaçaõ --><br><br><br><br></p>
+<p><!-- citaçaõ --><br><br><br></p>
 
 ## Processo: Logística de Adoção
 * [Formato .bpmn](./Logistica-de-adocao.bpmn)  <!-- entregar.bpmn - Processo de entrega. -->
