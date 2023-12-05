@@ -2,7 +2,11 @@
 
 ## Processo: Registro de Animais
 <!-- login.bpmn - Processo de login. -->
-<p>Processo responsável por aprimorar o sistema de cadastramento dos animais resgatados pelas ONGs.</p>
+<p>Modelo AS/IS - Situação atual do processo.</p>
+
+![Imagem - AS IS](https://github.com/leoalmeidabraga/Teste/assets/127418501/7164e06c-f0dc-4cc5-87ed-297ad23e069d)
+ <br>
+<p><b>Modelo TO/BE</b> - Processo responsável por aprimorar o sistema de cadastramento dos animais resgatados pelas ONGs.</p>
 
 ![Registro de animais - imagem](https://github.com/leoalmeidabraga/Teste/assets/127418501/0b85662f-ea2a-4fb2-866d-a382891bf2fa)
 
@@ -10,6 +14,10 @@
 
 ## Processo: Gestão Financeira
  <!-- agendar.bpmn - Processo de agendamento. -->
+<p>Modelo AS/IS - Situação atual do processo.</p>
+
+![imagem as](https://github.com/leoalmeidabraga/Teste/assets/127418501/02680285-e7ba-46c7-b20e-0e91a581899d)
+
 <p>Processo responsável por gerenciar as doações destinas aos animais resgatados.</p>
 
 ![Gestao financeira - imagem](https://github.com/leoalmeidabraga/Teste/assets/127418501/a43b8614-d89a-4e4a-a418-895ef2f8fcc2)
