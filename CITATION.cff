@@ -1,14 +1,14 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: Pereira da Costa
-    given-names: Beatriz
-  - family-names: Gomes Bruzzi
-    given-names: Guilherme
+  - family-names: da Costa
+    given-names: Beatriz Pereira
+  - family-names: Bruzzi
+    given-names: Guilherme Gomes
   - family-names: Ferreira dos Santos
     given-names: Laís Lara
-  - family-names: Almeida Braga
-    given-names: Leonardo
+  - family-names: Braga
+    given-names: Leonardo Almeida
   - family-names: Silva de Oliveira
     given-names: Luis Filipe 
   - family-names: Pereira da Silva
@@ -26,7 +26,7 @@ keywords:
   - "Doação"
   - "Adoção"
   - "Resgate"
-  - "logística"
+  - "Logística"
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
