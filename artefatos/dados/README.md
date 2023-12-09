@@ -10,7 +10,7 @@ Este diretório mantém os artefatos relacionados à modelagem de dados do proje
 
 	<!-- * Apresentar o DER em imagem vetorial para evitar perda de qualidade com renderização em resolução específica. -->
 
-- <b>Modelo Relacio<b>
+- <b>Modelo Relacional<b>
 
 ![Mer](https://github.com/leoalmeidabraga/Teste/assets/127418501/35d417ec-943e-4586-bd4b-45a051a03ba3)
 
