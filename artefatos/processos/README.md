@@ -4,11 +4,11 @@
 <!-- login.bpmn - Processo de login. -->
 - <p><b>Modelo AS/IS</b> - Situação atual do processo.</p>
 
-![Imagem - AS IS](https://github.com/leoalmeidabraga/Teste/assets/127418501/7164e06c-f0dc-4cc5-87ed-297ad23e069d)
+![as is - registro de animais](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-adocao_de_animais/assets/127418501/0b6c016c-4f65-4156-afec-a8387411f860)
  <br>
 - <p><b>Modelo TO/BE</b> - Processo responsável por aprimorar o sistema de cadastramento dos animais resgatados pelas ONGs.</p>
 
-![Registro de animais - imagem](https://github.com/leoalmeidabraga/Teste/assets/127418501/0b85662f-ea2a-4fb2-866d-a382891bf2fa)
+![to be - registro de animais](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-adocao_de_animais/assets/127418501/713bf386-cc5c-4c11-967d-4a5d6ae70ea6)
 
 <p><!-- citaçaõ --><br><br><br><br></p>
 
