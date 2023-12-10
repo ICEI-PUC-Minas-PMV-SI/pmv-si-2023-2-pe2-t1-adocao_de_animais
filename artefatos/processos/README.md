@@ -28,11 +28,11 @@
  <!-- entregar.bpmn - Processo de entrega. -->
 - <p><b>Modelo AS/IS</b> - Situação atual do processo.</p>
 
-![logistica](https://github.com/leoalmeidabraga/Teste/assets/127418501/95ef964c-a30c-4bbf-880a-09dcf722834d)
+![as is - logistica de adocao](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-adocao_de_animais/assets/127418501/c31bc443-6e22-43dd-9043-11de87050b7b)
  <br>
 - <p><b>Modelo TO/BE</b> - Processo responsável por otimizar logística de adoção dos animais resgatados.</p>
 
-![Logistica de adocao - imagem](https://github.com/leoalmeidabraga/Teste/assets/127418501/10041038-a2d3-44e9-8a33-663d4acc9d28)
+![to be - logistica de adocao](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-adocao_de_animais/assets/127418501/3f327a4e-c132-44c8-97c1-faa0d9a7a612)
 
 
 
