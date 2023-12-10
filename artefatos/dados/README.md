@@ -8,7 +8,7 @@ Este diretório mantém os artefatos relacionados à modelagem de dados do proje
 - <b>Diagrama de Entidades e Relacionamentos (DER)</b>
 <p>O Diagrama de Entidades e Relacionamentos (DER) é uma ferramenta de modelagem utilizada em bancos de dados para representar visualmente a estrutura e os relacionamentos entre entidades.</p>
 
-  ![der](https://github.com/leoalmeidabraga/Teste/assets/127418501/2f9010e8-318f-46c5-933e-1fe433b0a7d4)
+![der](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-adocao_de_animais/assets/127418501/bd8eeb8d-c556-4be2-805f-4435800e15bd)
 
 <!-- * Apresentar o DER em imagem vetorial para evitar perda de qualidade com renderização em resolução específica. -->
 
