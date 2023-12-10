@@ -16,7 +16,7 @@ Este diretório mantém os artefatos relacionados à modelagem de dados do proje
 
 <p>O Modelo Relacional é um paradigma de organização de dados em um banco de dados, que utiliza tabelas para representar entidades e seus atributos.</p>
 
-![Mer](https://github.com/leoalmeidabraga/Teste/assets/127418501/35d417ec-943e-4586-bd4b-45a051a03ba3)
+![modelo relacional](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-adocao_de_animais/assets/127418501/dd7854fb-3364-46c1-8fa2-6a8b0b0785fb)
 
 <!-- * Apresentar o modelo relacional em imagem vetorial para evitar perda de qualidade com renderização em resolução específica. -->
 
