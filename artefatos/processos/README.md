@@ -16,11 +16,11 @@
  <!-- agendar.bpmn - Processo de agendamento. -->
 - <p><b>Modelo AS/IS</b> - Situação atual do processo.</p>
 
-![imagem as](https://github.com/leoalmeidabraga/Teste/assets/127418501/02680285-e7ba-46c7-b20e-0e91a581899d)
+![as is - gestao financeira](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-adocao_de_animais/assets/127418501/70827fce-8acf-4a25-b352-0c000af8a76c)
 <br>
 - <p><b>Modelo TO/BE</b> - Processo responsável por gerenciar as doações destinas aos animais resgatados.</p>
 
-![Gestao financeira - imagem](https://github.com/leoalmeidabraga/Teste/assets/127418501/a43b8614-d89a-4e4a-a418-895ef2f8fcc2)
+![to be - gestao financeira](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-adocao_de_animais/assets/127418501/eb7f70de-1787-405d-9d33-c0e21bfdb240)
 
 <p><!-- citaçaõ --><br><br><br></p>
 
