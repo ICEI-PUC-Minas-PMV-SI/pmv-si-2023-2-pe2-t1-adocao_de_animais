@@ -9,7 +9,7 @@
 
 ### Vídeo de Apresentação
 - [Vídeo de Apresentação](./video-de-apresentacao.mp4) - Arquivo .mp4 com o vídeo de apresentação mostrando o funcionamento do projeto.
-- <p>Link para baixar no Google Drive - https://drive.google.com/file/d/1_6RYhbzThEeqX46bADlqd_voRKz5P2d8/view?usp=sharing</p>
+- <p>Link para baixar no Google Drive com melhor qualidade - https://drive.google.com/file/d/1_6RYhbzThEeqX46bADlqd_voRKz5P2d8/view?usp=sharing</p>
 
 ### Slide de Apresentação
 - [Slide de Apresentação](./slide-de-apresentacao.pptx) - Arquivo .pptx com os slides de aprensentação realizados na última etapa do projeto.
